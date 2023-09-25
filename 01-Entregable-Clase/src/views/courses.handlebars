@@ -1,0 +1,8 @@
+{{#each students}}
+    <p>{{this.title}}</p>
+    <p>{{this.description}}</p>
+     <p>{{this.teacherName}}</p>
+     {{#each this.students}}
+     <p>{{this.first_name}}e</p>
+     <p>{{this.email}}e</p>
+{{/each}}

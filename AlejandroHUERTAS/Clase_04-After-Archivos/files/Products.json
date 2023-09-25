@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Denim",
+    "description": "Negro",
+    "price": 4900,
+    "thumbnail": "sin imagen",
+    "code": "codigo001",
+    "stock": 10
+  },
+  {
+    "title": "Denim",
+    "description": "Azul",
+    "price": 5900,
+    "thumbnail": "sin imagen",
+    "code": "codigo002",
+    "stock": 15
+  }
+]

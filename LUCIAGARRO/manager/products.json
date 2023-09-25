@@ -1,0 +1,20 @@
+[
+	{
+		"title": "rgb3n",
+		"description": "3rn3",
+		"price": 10,
+		"thumbnail": "3rtn",
+		"code": "3rn",
+		"stock": 20,
+		"id": 1
+	},
+	{
+		"title": "rgn",
+		"description": "3n3",
+		"price": 10,
+		"thumbnail": "3tn",
+		"code": "3n",
+		"stock": 19,
+		"id": 2
+	}
+]
